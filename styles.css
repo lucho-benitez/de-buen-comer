@@ -1,0 +1,41 @@
+* {box-sizing: border-box; margin:0; padding:0;font-family: Tahoma, Geneva, Verdana ,sans-serif;  }
+
+body {background-color:#f4efe9; 
+color: #2c221e;
+line-height:1.6;
+padding:15px;}
+
+header {text-align:center; background-color:#4a2c11; color:#fff8f0; padding:35px 20px;border-radius:10px; margin-bottom:5px,box-sadow.0 4px 10px  rgba(0, 0, 0, 0,0.15);}
+
+header h1 {font-size:2.5rem; margin-bottom:15px; color:#fca311;}
+
+header p {font-size: 1.1rem; margin-bottom:15px;}
+
+.btn-insta { display:inline-block;background-color:#664c8fda;color:white;text-decoration: none; padding:8px;border-radius:20px; font-weight:bold; font-size:0.9rem,}
+
+
+section {background:#ffffff;padding:25px; margin-bottom20px, border-radius.10px; box-sadow.0 2px 8px rgba(0, 0. 0, 0, 0.06);}
+h2 {text-align:center; margin-bottom:20px; color:#030e1496; border-bottom:2px solid #fca311;display:inline-block;padding-bottom. 5px;}
+
+.sobre-nosotros{text-alingn.center;}
+
+
+.galeria {display:flex;gap:80px, flex-wrap: wrap; justify-content:center;}
+
+.tarjeta{background:#faf8f5; border: 1px solid #e2d9cf; border-radius:8px; padding:25px; flex:1, min-width:260px;max-width:350px;
+     display:flex; flex-direction:column; justify-content:space-btween;text-align:center;}
+
+
+
+.tarjeta img{width:100%; height:180px; object-fit:cover; margin-bottom:12px;}
+
+.tarjeta p {font-size:0.95rem;color:#555; margin-bottom:15px;}
+
+.btn-wsp{display:block; background-color: #25d366; color:white; text-decoration: none; padding:10px; font-weigth:bold; transition:0.2s;}
+btn-wsp:hover{ background-color:#1eb855;}
+footer{text-align:center; color:#777; font-size:0.10; margin-top:30px;}
+
+.logo{width: 120px;height: 120px;object-fit: cover;border-radius: 50%;border: 3pxsolid #fca311;}
+
+
+
